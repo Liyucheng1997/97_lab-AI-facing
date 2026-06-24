@@ -1,0 +1,16 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+.tmp/
+
+# Claude Code transient files
+.claude/scheduled_tasks.lock
+.claude/*.lock
