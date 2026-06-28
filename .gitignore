@@ -10,6 +10,11 @@ Desktop.ini
 # Logs / temp
 *.log
 .tmp/
+tmp/
+vendor/
+
+# Local OpenPose runtime
+server/__pycache__/
 
 # Claude Code transient files
 .claude/scheduled_tasks.lock
